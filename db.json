@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "products": "product1",
+      "reviews": "review1",
+      "inventory": "inventory1"
+    },
+    {
+      "products": "product2",
+      "reviews": "review2",
+      "inventory": "inventory2"
+    }
+  ]
+}
